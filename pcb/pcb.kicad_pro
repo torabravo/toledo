@@ -506,11 +506,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber/",
+      "plot": "../../../../",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../references/pcb_right_bottom_xiao.step",
-      "svg": "",
+      "svg": "../../../../",
       "vrml": ""
     },
     "page_layout_descr_file": ""
